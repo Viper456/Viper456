@@ -3,10 +3,10 @@
 ## I'm a Frontend Developer💻
 
 -  🔭 I’m a motivated, communicative and responsive person
--  👓 I like to write code and try new things
--  💪 I’m learning JavaScript and React.js on Front End Pro course in Hillel IT School https://online.ithillel.ua/ru/courses/front-end-pro
--  🕹 I love to play video games and reading books
--  🤔 4th year student of KHNUE
+-  👓 I love to write clear code and try new things
+-  💪 I’ve finished to learn JavaScript and React.js on Front End Pro course in Hillel IT School https://online.ithillel.ua/ru/courses/front-end-pro
+-  🕹 I like to play video games and reading books
+-  🤔 Bachelor's degree of Computer Science
 -  ⚡ I don't know how to give up, only go forward to achieve goals!
 -  🤘🏻 Good advice: it's okay to lose people, but never lose yourself(c)Eminem
 
