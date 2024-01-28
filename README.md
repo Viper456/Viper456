@@ -7,7 +7,7 @@
 -  💪 I’ve finished to learn JavaScript and React.js on Front End Pro course in Hillel IT School https://online.ithillel.ua/ru/courses/front-end-pro
 -  🕹 I like to play video games and reading books
 -  🤔 Bachelor's degree of Computer Science
--  ⚡ I don't know how to give up, only go forward to achieve goals!
+-  ⚡ To get to the top, yeah, I must be rare!
 -  🤘🏻 Good advice: it's okay to lose people, but never lose yourself(c)Eminem
 
 ### Connect with me
